@@ -3,12 +3,12 @@ redmine_projects_accordion
 
 Projects accordion view for Redmine
 
-Requires Redmine 2.1+
+Tested on Redmine 3.4.*.
 
 ACCORDION
 =========
 
-This plugin uses the jQuery UI accordion code as included by Redmine 2.1+
+This plugin uses the jQuery UI accordion code as included by Redmine.
 
 LICENSE
 =======
